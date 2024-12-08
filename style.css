@@ -29,7 +29,7 @@ a{
 	font-size:16px;
 
 }
-a:hover{
+a:hover {
 	color: black;
 }
 /*custom design  with class*/
@@ -74,7 +74,7 @@ a:hover{
 	color: white;
 	padding: 15px 20px ;
 }
-.btn-blue:hover{
+.btn-blue:hover {
 	background-color: black;
 	color:white;
 }
@@ -92,6 +92,7 @@ a:hover{
 }
 .list-inline i:hover{
 	color: black;
+	font-size:60px;
 }
 #introduction p {
 	margin-bottom: 40px;
